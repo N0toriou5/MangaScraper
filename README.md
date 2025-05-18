@@ -1,4 +1,7 @@
 # Animanics Manga Scraper
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f4cf1b9-7b2f-4f32-8170-1e9bd2147da5" alt="scraper" width="300" height="300">
+</p>
 
 Questo script Python consente di estrarre automaticamente le informazioni sui volumi manga dal sito [animanics.it](https://www.animanics.it), visitando una pagina specificata dall’utente o tutte le serie elencate nella pagina `/manga/`.
 
