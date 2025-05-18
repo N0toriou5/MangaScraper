@@ -1,3 +1,9 @@
+"""
+Questo script esegue il download delle informazioni di interesse da pagine 
+indicate dall'utente. Una sua implementazione più estesa è presente in 
+scraper.py (under development)
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import csv
