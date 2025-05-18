@@ -62,7 +62,9 @@ animanics-scraper/
 - Inserisci `time.sleep(x)` per gestire ritardi tra richieste
 - Limita il numero di serie elaborate con un `break` nel ciclo `for`
 
-## Licenza
+## Licenza e note legali
 Uso personale e didattico. Il sito web di destinazione è di proprietà dei rispettivi autori.
+Il presente software non incoraggia in alcun modo azioni di raccolta dati in automatico da siti internet.
+IL presente software è da intendersi come puro esercizio didattico.
 
 ---
