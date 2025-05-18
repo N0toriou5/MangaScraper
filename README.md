@@ -65,6 +65,6 @@ animanics-scraper/
 ## Licenza e note legali
 Uso personale e didattico. Il sito web di destinazione è di proprietà dei rispettivi autori.
 Il presente software non incoraggia in alcun modo azioni di raccolta dati in automatico da siti internet.
-IL presente software è da intendersi come puro esercizio didattico.
+Il presente software è da intendersi come puro esercizio didattico e come tale non andrebbe usato per azioni di raccolta automatica di dati.
 
 ---
